@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 3) Faire un truc en vlang
 4) Faire un jeu avec Godot et C#
 5) Maintenir OpenCloud sur le côté
-
+6) Finir Sulfur Package Manager
 ## English / Anglais
 
 ✨ My name is Rheydskey, well that's my nickname.
@@ -51,3 +51,4 @@ Here are some ideas to get you started:
 3) Do something in vlang
 4) Make a game with Godot and C#
 5) Maintaining OpenCloud on the side
+6) Finish the Sulfur Package Manager
