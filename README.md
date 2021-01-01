@@ -26,6 +26,13 @@ Here are some ideas to get you started:
 
 📫 Contactez-moi sur Discord -> Rheydskey#4820
 
+#### Todo List (2021)
+1) Faire ma propre "Windows Manager"
+2) Finir mon protocol de tchat
+3) Faire un truc en vlang
+4) Faire un jeu avec Godot et C#
+5) Maintenir OpenCloud sur le côté
+
 ## English / Anglais
 
 ✨ My name is Rheydskey, well that's my nickname.
@@ -37,3 +44,10 @@ Here are some ideas to get you started:
 🌱 I am consolidating my knowledge on Rust and Flutter
 
 📫 Contact me on Discord -> Rheydskey#4820
+
+#### Todo List (2021)
+1) Make my own Windows Manager
+2) Finish my chat protocol
+3) Do something in vlang
+4) Make a game with Godot and C#
+5) Maintaining OpenCloud on the side
