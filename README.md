@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 🌱 Je consolide mes connaissances sur Rust et sur Flutter
 
-📫 Contactez-moi sur Discord -> Rheydskey#4820
+📫 Contactez-moi sur Discord -> Rheydskey 🍪#4820
 
 #### Todo List (2021)
 1) Faire ma propre "Windows Manager"
