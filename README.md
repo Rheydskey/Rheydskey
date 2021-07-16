@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 🌱 I am consolidating my knowledge on Rust and Flutter
 
-📫 Contact me on Discord -> Rheydskey#4820
+📫 Contact me on Discord -> Rheydskey 🍪#4820
 
 #### Todo List (2021)
 1) Make my own Windows Manager
