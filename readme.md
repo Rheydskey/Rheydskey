@@ -1,3 +1,3 @@
-You don't need to know anything about me.
+This is empty.
 
-(If you want my email address just fucking learn git)
+(If you want my email address just learn git)
